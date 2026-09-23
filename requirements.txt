@@ -1,0 +1,6 @@
+python-telegram-bot
+google-genai
+openai-whisper
+yt-dlp
+flask
+gunicorn
